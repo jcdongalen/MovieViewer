@@ -152,10 +152,6 @@ public class SeatMapping extends Fragment {
                     tvBox.setBackground(getResources().getDrawable(R.drawable.reserved));
                     tvBox.setTag(seatMap.getSeatmap().get(i).get(x));
                 }
-
-                //TODO: Add Listener on seat reservation
-
-
                 tblRow.addView(tvBox);
             }
 
