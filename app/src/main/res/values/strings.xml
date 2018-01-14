@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie Viewer</string>
+    <string name="view_seat_map">View Seat Map</string>
+    <string name="name">Name:</string>
+    <string name="genre">Genre:</string>
+    <string name="advisory_rating">Advisory Rating:</string>
+    <string name="duration">Duration:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="sypnosis">Sypnosis:</string>
+    <string name="check">✓</string>
+
+    <string name="api_movie">http://ec2-52-76-75-52.ap-southeast-1.compute.amazonaws.com/movie.json</string>
+    <string name="api_schedule">http://ec2-52-76-75-52.ap-southeast-1.compute.amazonaws.com/schedule.json</string>
+    <string name="api_seatmap">http://ec2-52-76-75-52.ap-southeast-1.compute.amazonaws.com/seatmap.json</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selected">Selected</string>
+    <string name="reserved">Reserved</string>
+    <string name="available">Available</string>
+    <string name="theater">Theater:</string>
+    <string name="your_selected_seats">Your selected seats:</string>
+    <string name="total">Total</string>
+    <string name="movie_screen">Movie Screen</string>
+</resources>
